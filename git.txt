@@ -1,3 +1,9 @@
+右键git bash Here
+命令窗口 git clone
+tortoiseGit
+Switch/Checkout里（Branch切换分支）
+
+
 git init 
 git add .
 git commit -m "init commit"
