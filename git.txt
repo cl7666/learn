@@ -3,7 +3,7 @@
 tortoiseGit
 Switch/Checkout里（Branch切换分支）
 
-
+上传github
 git init 
 git add .
 git commit -m "init commit"
