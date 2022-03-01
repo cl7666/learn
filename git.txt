@@ -3,6 +3,9 @@
 tortoiseGit
 Switch/Checkout里（Branch切换分支）
 
+npm install rimraf -g
+rimraf node_modules
+
 上传github
 git init 
 git add .
